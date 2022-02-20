@@ -8,6 +8,8 @@
     <h1>Fake PyPi</h1>
     <div>User: ${user_name}</div>
 
+    <!--?    <ul tal:repeat=""></ul>-->
+
     <ul>
         <li>fastapi</li>
         <li>uvicorn</li>
